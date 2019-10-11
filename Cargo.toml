@@ -1,0 +1,10 @@
+[package]
+name = "regalia"
+version = "0.0.1"
+authors = ["sismeon <sismeongame@gmail.com>"]
+edition = "2018"
+description = "[WIP] A web framework built to remotely control hardware project"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
