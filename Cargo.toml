@@ -4,6 +4,7 @@ version = "0.0.1"
 authors = ["sismeon <sismeongame@gmail.com>"]
 edition = "2018"
 description = "[WIP] A web framework built to remotely control hardware project"
+license = "MIT"
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
