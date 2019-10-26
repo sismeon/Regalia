@@ -7,7 +7,7 @@
       <sourceFolder url="file://$MODULE_DIR$/../Regalia\examples" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/../Regalia\tests" isTestSource="true" />
       <sourceFolder url="file://$MODULE_DIR$/../Regalia\benches" isTestSource="true" />
-      <excludeFolder url="file://$MODULE_DIR$/../Regalia\target" />
+      <excludeFolder url="file://$MODULE_DIR$/target" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
